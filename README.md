@@ -23,7 +23,6 @@
 
 <br>
 
-<div align="center">
 
  <picture>
   <source
@@ -52,5 +51,3 @@
   />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paddy-pyker&layout=donut&show_icons=true" />
 </picture>
-
-</div>
