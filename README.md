@@ -7,8 +7,8 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="width: 100%; height: auto;">
 
-  <img src="https://raw.githubusercontent.com/paddy-pyker/paddy-pyker/main/img/about.png" alt="About Me"/>
+   <img src="https://raw.githubusercontent.com/paddy-pyker/paddy-pyker/main/img/about.png" alt="About Me" style="width: 100%; height: auto;">
 
 </div>
