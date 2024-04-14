@@ -9,6 +9,6 @@
 
 <div align="center">
 
- ![About Me](https://raw.githubusercontent.com/paddy-pyker/paddy-pyker/main/img/about.png)
+ ![About Me](https://raw.githubusercontent.com/paddy-pyker/paddy-pyker/main/img/abt.png)
 
 </div>
