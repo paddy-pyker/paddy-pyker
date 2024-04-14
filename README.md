@@ -7,7 +7,7 @@
 
 <h1 align="center">
 
- 👋Hey! You Just Increased My Count 🤪
+ 😱 whoa! the count just increased! 🤪
 
 </h1>
 
