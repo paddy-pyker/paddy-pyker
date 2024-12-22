@@ -7,7 +7,7 @@
 
 <h1 align="center">
 
- 😱 whoa! the count just increased! 🤪
+ visitor count
 
 </h1>
 
